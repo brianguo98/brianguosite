@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={headshot} className="headshot" alt="headshot" />
+        <img src="headshot.jpg" className="headshot" alt="headshot" />
         <p>
           Hello welcome to Brian's website! It is currently under development. Check back soon!
         </p>
